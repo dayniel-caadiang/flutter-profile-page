@@ -61,6 +61,8 @@ flutter:
   assets:
   - assets/images/profile.png
   - assets/images/ss1.png
+  - assets/images/ss2.png
+  - assets/images/ss3.png
 
  
 

@@ -24,9 +24,7 @@ This project demonstrates Flutter UI design, widget composition, and responsive 
 ---
 
 ## Screenshots
-_Add screenshots of your app here_
 
-Example:
 <img src="assets/images/ss1.png" width="300">
 
 ## Challenges Faced
