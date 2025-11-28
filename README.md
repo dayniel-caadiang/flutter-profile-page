@@ -28,17 +28,6 @@ _Add screenshots of your app here_
 
 Example:
 
-## Project Structure (Highlight)
-- main.dart – App entry point, theme setup
-- ProfilePage widget – Main screen and layout
-- Reusable UI builders:
-- _buildProfilePicture()
-- _buildTechTags()
-- _buildProjectCard()
-- _buildFocusArea()
-- _buildInteractiveSection()
-- _buildHobbiesInterestsRow()
-
 ## Challenges Faced
 - Creating a fully responsive layout using LayoutBuilder, Expanded, and Wrap
 - Maintaining a consistent dark theme across all components
@@ -46,8 +35,6 @@ Example:
 - Handling missing profile images using errorBuilder
 
 ## What I Learned
-Designing modern UI using Flutter layouts, gradients, shadows, and card components
-Structuring code using widget decomposition and clean method extraction
-Managing interactive state using StatefulWidgets
-Creating adaptive UIs for both mobile and desktop Flutter environments
-Strengthening understanding of Flutter styling and theming
+- Designing modern UI using Flutter layouts, gradients, shadows, and card components
+- Managing interactive state using StatefulWidgets
+- Strengthening understanding of Fludtter styling and theming

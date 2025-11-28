@@ -458,7 +458,7 @@ class _ProfilePageState extends State<ProfilePage> {
         child: ClipRRect(
           borderRadius: BorderRadius.circular(12),
           child: Image.asset(
-            'assets/images/funnydog.jpg', // Replace with your actual image
+            'assets/images/profile.jpg', // Replace with your actual image
             width: 180,
             height: 200,
             fit: BoxFit.cover,
